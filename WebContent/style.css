@@ -1,0 +1,55 @@
+@charset "UTF-8";
+h1{color:white
+
+}
+p {
+	color:white;
+	font-family:"Courier";
+}
+DIV.container {
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle 
+	color:#DF1369;
+	font-family:"Courier";
+}
+h3 {
+	
+	color:white;
+}
+body{
+	background-image: url("/Users/TDhar/Desktop/IMG_1060.jpg");
+	background-repeat: no repeat;
+	background-size: cover;
+   
+  
+	<--background-color: #E3FBF8;-->
+}
+footer{
+	color: #EC0E98;
+	
+}P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: right;
+    margin-middle: middle;
+    width: 50%;
+    height: 50% px;
+ 
+}  .image-container {
+  
+  margin-middle: middle;
+  }
+ 
+.verticaltext{
+    width:1px;
+    word-wrap: break-word;
+    font-family: monospace; 
+    white-space: pre;
+}
